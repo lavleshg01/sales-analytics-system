@@ -483,8 +483,7 @@ def generate_sales_report(transactions, enriched_transactions, output_file='outp
     North     ₹4,50,000     29.13%      25
     South     ₹3,80,000     24.60%      22
     ...
-
-    (continue with all sections...)
+    
     """
     import os
     from datetime import datetime
