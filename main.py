@@ -255,7 +255,6 @@ def main():
         print("\n\nProcess interrupted by user.")
     except Exception as e:
         print(f"\n✗ Unexpected error: {str(e)}")
-        print("Please check the error message above and try again.")
 
 
 if __name__ == "__main__":

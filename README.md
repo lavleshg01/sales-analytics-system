@@ -13,7 +13,6 @@ A comprehensive Python-based sales analytics system that processes transaction d
 ## Prerequisites
 
 - Python 3.7 or higher
-- Internet connection (for API calls)
 
 ## Installation
 
